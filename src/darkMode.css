@@ -1,0 +1,9 @@
+.dark {
+    @apply text-white;
+    background-color: #2B3467;
+}
+
+.light {
+    @apply text-gray-900;
+    background-color: #FCFFE7;
+}
